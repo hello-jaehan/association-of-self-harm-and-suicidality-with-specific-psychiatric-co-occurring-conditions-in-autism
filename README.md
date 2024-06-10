@@ -1,0 +1,1 @@
+This is the R code for the paper "Association between suicide-related behaviors and specific psychiatric comorbid conditions in autism : a systemtic review and meta-analysis (title could be altered in the process of the revision)"
