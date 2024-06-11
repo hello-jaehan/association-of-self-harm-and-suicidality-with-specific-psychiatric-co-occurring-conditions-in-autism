@@ -86,7 +86,7 @@ meta_regression <- function(data, output_path) {
     subset_data <- subset(data, comorbid_uni == comorbidity)
     
     for (i in c("mean_age", "per_boy", "N", "NOS", "adjusted")) {
-      subset_data_i <- subset_data[!is.na(subset_data[[i]]), ]  # Remove rows with NA in the specific covariate
+      subset_data_i <- subset_data[!is.na(subset_data[[i]]), ] 
       k <- nrow(subset_data_i)
       
       if (k > 3) {
