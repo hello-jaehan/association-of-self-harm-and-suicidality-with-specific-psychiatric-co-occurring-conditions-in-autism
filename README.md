@@ -1,4 +1,4 @@
-This is the R codes for the paper "Association of self-harm and suicidality with specific psychiatric comorbid conditions in autistic individuals: a systematic review and meta-analysis"
+This is the R code for the paper "Association of self-harm and suicidality with specific psychiatric co-occurring conditions in autistic individuals: a systematic review"
 
 R version: 4.2.3
 
